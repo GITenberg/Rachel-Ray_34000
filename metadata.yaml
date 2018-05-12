@@ -1,0 +1,34 @@
+_repo: Rachel-Ray_34000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Regarded as one of Trollope's most idyllic novels, RACHEL RAY is a wonderful
+  study of the unremarkable. In the rural town of Baslehurst, in Devon, Luke Rowan
+  is attempting to wrest control of the brewery from the ageing Mr Tappitt. At the
+  same time, he is courting Rachel Ray, a local beauty. Around these two circumstances
+  is built a gallery of events, none of which is an incident that "would be even remarkable
+  in everyday life", yet which add up to an engrossing study of people and their relationships
+  with one another.
+gutenberg_issued: '2010-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Devon (England) -- Fiction'
+title: Rachel Ray
+url: http://www.gutenberg.org/ebooks/34000
